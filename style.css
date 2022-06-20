@@ -114,7 +114,13 @@ table {
 .column-two-thirds {
   width: 66.66%; }
 
-.column-one-quarter {
+  .column-one-sixth {
+    width: 16.66%; }
+  
+  .column-five-sixths {
+    width: 83.33%; }
+  
+  .column-one-quarter {
   width: 25%; }
 
 .column-three-quarters {
